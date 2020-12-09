@@ -13,6 +13,7 @@ import React, { useState } from 'react';//state hook
 import Posts from './components/Posts/Posts';
 import SearchBar from './components/SearchBar/SearchBar';
 import dummyData from './dummy-data';
+
 import './App.css';
 
 const App = () => {
